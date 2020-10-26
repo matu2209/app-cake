@@ -1,0 +1,14 @@
+#title {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+
+#content {
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+}
+
+#nav {
+    opacity: 0.8;
+    background-color:  #ec495e;
+}
